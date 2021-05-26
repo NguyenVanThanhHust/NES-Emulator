@@ -1,2 +1,3 @@
 # NES-Emulator
-original https://github.com/OneLoneCoder/olcNES
+
+Learning from https://www.youtube.com/watch?v=qJgsuQoy9bc&list=WL&index=40
